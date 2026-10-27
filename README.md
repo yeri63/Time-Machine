@@ -3,7 +3,7 @@
   
 ![Screenshot of Time Machine](https://github.com/yeri63/Time-Machine/blob/master/time-machine.png)
 </div>
-<p>Go forward or back in time, just like Marty McFly in the film Back to the Future. This application will provide the exact time of your trip in years, months, and days. Despite this being Science Fiction, this application actually can provide some quite useful information, answering questions like...</p>
+<p>Go forward or back in time, just like Marty McFly in the film Back to the Future. This application will provide the exact time of your trip in years, months, days, hours and minutes. Despite this being Science Fiction, this application actually can provide some quite useful information, answering questions like...</p>
 
 1. How many days until Christmas, New Years Eve, or Spring Break?
 2. How old am I, or my new friend, given just a birthdate?
