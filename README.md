@@ -1,7 +1,7 @@
 # Time Machine
 <div align="center">
   
-![Screenshot of Time Machine](https://github.com/yeri63/Time-Machine/blob/master/time-machine.png)
+![Screenshot of Time Machine](time-machine.png)
 </div>
 <p>Go forward or back in time, just like Marty McFly in the film Back to the Future. This application will provide the exact time of your trip in years, months, days, hours and minutes. Despite this being Science Fiction, this application actually can provide some quite useful information, answering questions like...</p>
 
